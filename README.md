@@ -6,6 +6,8 @@
 2. **Merging**: Merge 2 sorted linked lists into a single sorted linked list efficiently.
 3. **Intersection**: Find the intersection of two sorted linked lists.
 4. **Get Minimum**: Obtain the minimum element from the sorted linked list in constant time.
+5. **Get Maximum**: Obtain the maximum element from the sorted linked list in constant time.
+6. **display**: is a void function that prints all values in the list.
 
 ## samples you can try it
 ### merge function
