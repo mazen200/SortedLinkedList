@@ -1,9 +1,8 @@
 #include<iostream>
+#include "SortedList.cpp"
 using namespace std;
 
 int main() {
 	
-	cout << "hello";
-
 	return 0;
 }
