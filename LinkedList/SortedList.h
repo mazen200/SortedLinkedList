@@ -16,7 +16,7 @@ public:
 template<class T>
 class SortedList
 {
-private :
+private:
 	Node<T>* head;
 	Node<T>* tail;
 public:
@@ -24,5 +24,10 @@ public:
 	SortedList();
 	void insert(T v);
 	void display();
+	void merge(SortedList<T>);
+	T getMax();
+	T getMin();
+	SortedList<T> intersection(SortedList<T>);
 };
+
 
