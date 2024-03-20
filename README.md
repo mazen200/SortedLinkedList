@@ -1,4 +1,4 @@
-# Rebo - Sorted Linked List Implementation
+# Rebo - Implementation of a sorted linked list for a data structure task
 
 ## Features
 
